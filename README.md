@@ -1,10 +1,10 @@
-# Project 03 - Updating the Simple Shell Progra,
+# Project 03 - Unix Shell Program
 
 
 ### By Zaid Ali
 
 #### 1) Project Description
-This program is an extension of the simple shell program which provides additional functionality in IO redirection and signal handling 
+This program is a  shell program that provides an interface for the user to execute commands. This program provides many functions present in a Unix shell environment, such as navigating directories, signal handling, and IO redirection.
 
 #### 2) Acknowledgements
 The sample code for reading a file and directory is provided by Dr. Bangalore.
@@ -26,6 +26,11 @@ The sample code for reading a file and directory is provided by Dr. Bangalore.
 6) Execute a command with '<' or '>' to redirect the IO. eg './myprog arg1 arg2 < input > output'<br/>  
 7) Enter 'quit' to quit program<br/>
 8) Execute the blazersh executable with a list of commands (eg ./blazersh commands.txt) to execute the text in this file, line by line<br/> 
+9) Enter 'cd <directory_name>' to change directory.<br/>
+10) Enter 'list <directory_name>' to list the contents of a directory name.<br/>
+11) Enter 'history' to list all previously entered commands.<br/>
+12) Enter 'quit' to quit the program.<br/>
+13) Any other program can be executed through this shell (i.e. 'uname -a')<br/>
 
 #### 5) Sample screenshot of program
 
