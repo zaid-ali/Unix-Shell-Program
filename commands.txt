@@ -1,0 +1,5 @@
+uname -a
+./myprog < input > output
+../project02/hw1 1000
+history 
+
